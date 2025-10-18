@@ -6,5 +6,6 @@ public class MavenPracticeTest {
 	@Test
 	public void mavenTest() {
 		System.out.println("Hi Maven");
+		System.out.println("By Maven");
 	}
 }
